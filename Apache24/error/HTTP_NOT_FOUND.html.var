@@ -1,0 +1,6 @@
+Content-language: es
+Content-type: text/html
+Body:----------es--
+<!--#set var="TITLE" value="" -->
+<!--#include virtual="404.html" -->
+----------es--

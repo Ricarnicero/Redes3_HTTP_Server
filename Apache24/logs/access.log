@@ -1,0 +1,127 @@
+::1 - - [24/Aug/2019:16:27:52 -0500] "GET / HTTP/1.1" 200 11992
+::1 - - [24/Aug/2019:16:27:52 -0500] "GET /favicon.ico HTTP/1.1" 404 196
+::1 - - [24/Aug/2019:16:28:52 -0500] "-" 408 -
+::1 - - [24/Aug/2019:16:32:40 -0500] "GET /htdocs HTTP/1.1" 404 196
+::1 - - [24/Aug/2019:16:33:12 -0500] "GET / HTTP/1.1" 304 -
+::1 - - [24/Aug/2019:16:34:43 -0500] "GET /htdocs HTTP/1.1" 404 196
+::1 - - [24/Aug/2019:16:34:44 -0500] "GET /htdocs HTTP/1.1" 404 196
+::1 - - [24/Aug/2019:16:34:44 -0500] "GET /htdocs HTTP/1.1" 404 196
+::1 - - [24/Aug/2019:16:34:45 -0500] "GET /htdocs HTTP/1.1" 404 196
+::1 - - [24/Aug/2019:16:35:43 -0500] "-" 408 -
+::1 - - [24/Aug/2019:16:39:54 -0500] "GET /htdocs HTTP/1.1" 404 196
+::1 - - [24/Aug/2019:16:43:35 -0500] "GET / HTTP/1.1" 200 2241
+::1 - - [24/Aug/2019:16:43:35 -0500] "GET /static/js/main.db0bd5b9.chunk.js HTTP/1.1" 200 8091
+::1 - - [24/Aug/2019:16:43:35 -0500] "GET /static/css/2.4f67bd2e.chunk.css HTTP/1.1" 200 155888
+::1 - - [24/Aug/2019:16:43:35 -0500] "GET /static/js/2.79283980.chunk.js HTTP/1.1" 200 290587
+::1 - - [24/Aug/2019:16:43:35 -0500] "GET /static/media/perfil.836444e3.png HTTP/1.1" 200 113878
+::1 - - [24/Aug/2019:16:44:52 -0500] "GET / HTTP/1.1" 304 -
+::1 - - [24/Aug/2019:16:45:48 -0500] "-" 408 -
+::1 - - [24/Aug/2019:16:48:29 -0500] "GET / HTTP/1.1" 304 -
+::1 - - [24/Aug/2019:16:48:34 -0500] "GET /htdocts HTTP/1.1" 404 196
+::1 - - [24/Aug/2019:17:30:08 -0500] "GET /sitio1 HTTP/1.1" 404 196
+::1 - - [24/Aug/2019:17:34:06 -0500] "-" 408 -
+::1 - - [24/Aug/2019:17:36:02 -0500] "-" 408 -
+::1 - - [24/Aug/2019:17:42:48 -0500] "-" 408 -
+::1 - - [24/Aug/2019:17:43:12 -0500] "GET / HTTP/1.1" 200 3854
+::1 - - [24/Aug/2019:17:43:12 -0500] "GET /static/js/main.db0bd5b9.chunk.js HTTP/1.1" 200 8091
+::1 - - [24/Aug/2019:17:43:12 -0500] "GET /static/css/2.4f67bd2e.chunk.css HTTP/1.1" 200 155888
+::1 - - [24/Aug/2019:17:43:12 -0500] "GET /static/js/2.79283980.chunk.js HTTP/1.1" 200 290587
+::1 - - [24/Aug/2019:17:43:12 -0500] "GET /static/media/perfil.836444e3.png HTTP/1.1" 200 113878
+::1 - - [24/Aug/2019:17:43:12 -0500] "GET /favicon.ico HTTP/1.1" 200 3870
+::1 - - [24/Aug/2019:17:44:21 -0500] "-" 408 -
+::1 - - [24/Aug/2019:17:46:13 -0500] "GET / HTTP/1.1" 403 199
+::1 - - [24/Aug/2019:17:46:13 -0500] "GET /favicon.ico HTTP/1.1" 403 199
+::1 - - [24/Aug/2019:17:47:13 -0500] "-" 408 -
+::1 - - [24/Aug/2019:17:47:13 -0500] "-" 408 -
+::1 - - [24/Aug/2019:17:47:58 -0500] "GET / HTTP/1.1" 200 3854
+::1 - - [24/Aug/2019:17:47:58 -0500] "GET /static/js/main.db0bd5b9.chunk.js HTTP/1.1" 200 8091
+::1 - - [24/Aug/2019:17:47:58 -0500] "GET /static/css/2.4f67bd2e.chunk.css HTTP/1.1" 200 155888
+::1 - - [24/Aug/2019:17:47:58 -0500] "GET /static/js/2.79283980.chunk.js HTTP/1.1" 200 290587
+::1 - - [24/Aug/2019:17:47:58 -0500] "GET /static/media/perfil.836444e3.png HTTP/1.1" 200 113878
+::1 - - [24/Aug/2019:17:47:58 -0500] "GET /favicon.ico HTTP/1.1" 200 3870
+::1 - - [24/Aug/2019:17:48:01 -0500] "GET / HTTP/1.1" 200 3854
+::1 - - [24/Aug/2019:17:48:01 -0500] "GET /static/js/main.db0bd5b9.chunk.js HTTP/1.1" 200 8091
+::1 - - [24/Aug/2019:17:48:01 -0500] "GET /static/css/2.4f67bd2e.chunk.css HTTP/1.1" 200 155888
+::1 - - [24/Aug/2019:17:48:01 -0500] "GET /static/js/2.79283980.chunk.js HTTP/1.1" 200 290587
+::1 - - [24/Aug/2019:17:48:02 -0500] "GET /static/media/perfil.836444e3.png HTTP/1.1" 200 113878
+::1 - - [24/Aug/2019:17:48:02 -0500] "GET /favicon.ico HTTP/1.1" 200 3870
+::1 - - [24/Aug/2019:17:50:21 -0500] "GET / HTTP/1.1" 200 3854
+::1 - - [24/Aug/2019:17:50:21 -0500] "GET /static/js/2.79283980.chunk.js HTTP/1.1" 200 290587
+::1 - - [24/Aug/2019:17:50:21 -0500] "GET /static/css/2.4f67bd2e.chunk.css HTTP/1.1" 200 155888
+::1 - - [24/Aug/2019:17:50:21 -0500] "GET /static/js/main.db0bd5b9.chunk.js HTTP/1.1" 200 8091
+::1 - - [24/Aug/2019:17:50:22 -0500] "GET /static/media/perfil.836444e3.png HTTP/1.1" 200 113878
+::1 - - [24/Aug/2019:17:50:23 -0500] "GET /favicon.ico HTTP/1.1" 200 3870
+::1 - - [24/Aug/2019:18:03:18 -0500] "GET / HTTP/1.1" 200 3854
+::1 - - [24/Aug/2019:18:03:18 -0500] "GET /static/css/2.4f67bd2e.chunk.css HTTP/1.1" 200 155888
+::1 - - [24/Aug/2019:18:03:18 -0500] "GET /static/js/2.79283980.chunk.js HTTP/1.1" 200 290587
+::1 - - [24/Aug/2019:18:03:18 -0500] "GET /static/js/main.db0bd5b9.chunk.js HTTP/1.1" 200 8091
+::1 - - [24/Aug/2019:18:03:19 -0500] "GET /static/media/perfil.836444e3.png HTTP/1.1" 200 113878
+::1 - - [24/Aug/2019:18:03:22 -0500] "GET /d HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:05:22 -0500] "GET / HTTP/1.1" 200 3854
+::1 - - [24/Aug/2019:18:05:22 -0500] "GET /static/css/2.4f67bd2e.chunk.css HTTP/1.1" 200 155888
+::1 - - [24/Aug/2019:18:05:22 -0500] "GET /static/js/2.79283980.chunk.js HTTP/1.1" 200 290587
+::1 - - [24/Aug/2019:18:05:22 -0500] "GET /static/js/main.db0bd5b9.chunk.js HTTP/1.1" 200 8091
+::1 - - [24/Aug/2019:18:05:22 -0500] "GET /static/media/perfil.836444e3.png HTTP/1.1" 200 113878
+::1 - - [24/Aug/2019:18:05:27 -0500] "GET /asdas HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:08:23 -0500] "GET / HTTP/1.1" 200 7137
+::1 - - [24/Aug/2019:18:08:23 -0500] "GET /w3images/hamburger.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:08:23 -0500] "GET /w3images/tablesetting2.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:08:23 -0500] "GET /w3images/tablesetting.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:08:23 -0500] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:10:39 -0500] "GET / HTTP/1.1" 200 7107
+::1 - - [24/Aug/2019:18:10:39 -0500] "GET /sitio1/css/w3.css HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:10:39 -0500] "GET /w3images/hamburger.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:10:39 -0500] "GET /w3images/tablesetting2.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:10:39 -0500] "GET /w3images/tablesetting.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:10:59 -0500] "GET /sitio1/css/w3.css HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:11:24 -0500] "GET / HTTP/1.1" 200 7100
+::1 - - [24/Aug/2019:18:11:24 -0500] "GET /w3images/hamburger.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:11:24 -0500] "GET /css/w3.css HTTP/1.1" 200 23358
+::1 - - [24/Aug/2019:18:11:24 -0500] "GET /w3images/tablesetting2.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:11:24 -0500] "GET /w3images/tablesetting.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:11:43 -0500] "GET /asd HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:12:22 -0500] "GET /asd HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:12:25 -0500] "GET / HTTP/1.1" 304 -
+::1 - - [24/Aug/2019:18:12:25 -0500] "GET /css/w3.css HTTP/1.1" 304 -
+::1 - - [24/Aug/2019:18:12:25 -0500] "GET /w3images/tablesetting2.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:12:25 -0500] "GET /w3images/hamburger.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:12:25 -0500] "GET /w3images/tablesetting.jpg HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:12:33 -0500] "GET /asd HTTP/1.1" 404 -
+::1 - - [24/Aug/2019:18:13:33 -0500] "-" 408 -
+::1 - - [24/Aug/2019:20:22:31 -0500] "GET /asd HTTP/1.1" 404 1159
+::1 - - [24/Aug/2019:20:22:43 -0500] "GET /asd HTTP/1.1" 404 1159
+::1 - - [24/Aug/2019:20:22:45 -0500] "GET / HTTP/1.1" 304 -
+::1 - - [24/Aug/2019:20:22:45 -0500] "GET /w3images/hamburger.jpg HTTP/1.1" 404 1284
+::1 - - [24/Aug/2019:20:22:45 -0500] "GET /w3images/tablesetting2.jpg HTTP/1.1" 404 1284
+::1 - - [24/Aug/2019:20:22:45 -0500] "GET /css/w3.css HTTP/1.1" 304 -
+::1 - - [24/Aug/2019:20:22:46 -0500] "GET /w3images/tablesetting.jpg HTTP/1.1" 404 1284
+::1 - - [24/Aug/2019:20:22:51 -0500] "GET /asd.html HTTP/1.1" 404 1159
+::1 - - [24/Aug/2019:20:23:02 -0500] "GET /w3images/hamburger.jpg HTTP/1.1" 404 1284
+::1 - - [24/Aug/2019:20:23:02 -0500] "GET /w3images/tablesetting2.jpg HTTP/1.1" 404 1284
+::1 - - [24/Aug/2019:20:23:02 -0500] "GET /w3images/tablesetting.jpg HTTP/1.1" 404 1284
+::1 - - [24/Aug/2019:20:23:14 -0500] "GET /w3images/hamburger.jpg HTTP/1.1" 404 1284
+::1 - - [24/Aug/2019:20:23:14 -0500] "GET /w3images/tablesetting2.jpg HTTP/1.1" 404 1284
+::1 - - [24/Aug/2019:20:23:14 -0500] "GET /w3images/tablesetting.jpg HTTP/1.1" 404 1284
+::1 - - [24/Aug/2019:20:23:21 -0500] "GET /12,html HTTP/1.1" 404 1159
+::1 - - [24/Aug/2019:20:23:25 -0500] "GET /12.html HTTP/1.1" 404 1159
+::1 - - [24/Aug/2019:20:24:21 -0500] "-" 408 -
+::1 - - [24/Aug/2019:20:26:04 -0500] "GET /12.html HTTP/1.1" 404 514
+::1 - - [24/Aug/2019:20:26:04 -0500] "GET /error/css/bootstrap.min.css HTTP/1.1" 200 155758
+::1 - - [24/Aug/2019:20:26:04 -0500] "GET /error/imagenes/404.gif HTTP/1.1" 200 983741
+::1 - - [24/Aug/2019:20:26:49 -0500] "GET /12.html HTTP/1.1" 404 546
+::1 - - [24/Aug/2019:20:27:34 -0500] "GET /12.html HTTP/1.1" 404 629
+::1 - - [24/Aug/2019:20:29:03 -0500] "GET /12.html HTTP/1.1" 404 652
+::1 - - [24/Aug/2019:20:30:03 -0500] "-" 408 -
+::1 - - [24/Aug/2019:20:34:50 -0500] "GET /w3images/tablesetting2.jpg HTTP/1.1" 404 652
+::1 - - [24/Aug/2019:20:34:50 -0500] "GET /w3images/hamburger.jpg HTTP/1.1" 404 652
+::1 - - [24/Aug/2019:20:34:50 -0500] "GET /w3images/tablesetting.jpg HTTP/1.1" 404 652
+::1 - - [24/Aug/2019:20:35:02 -0500] "GET /jkhgj HTTP/1.1" 404 652
+::1 - - [24/Aug/2019:20:36:02 -0500] "-" 408 -
+::1 - - [24/Aug/2019:20:38:00 -0500] "GET /jkhgj HTTP/1.1" 404 652
+::1 - - [24/Aug/2019:20:38:02 -0500] "GET /jkhgj HTTP/1.1" 404 652
+::1 - - [24/Aug/2019:20:38:05 -0500] "GET / HTTP/1.1" 304 -
+::1 - - [24/Aug/2019:20:38:05 -0500] "GET /css/w3.css HTTP/1.1" 304 -
+::1 - - [24/Aug/2019:20:38:05 -0500] "GET /w3images/hamburger.jpg HTTP/1.1" 404 652
+::1 - - [24/Aug/2019:20:38:05 -0500] "GET /w3images/tablesetting2.jpg HTTP/1.1" 404 652
+::1 - - [24/Aug/2019:20:38:05 -0500] "GET /w3images/tablesetting.jpg HTTP/1.1" 404 652
+::1 - - [24/Aug/2019:20:38:08 -0500] "GET /contact HTTP/1.1" 404 652
