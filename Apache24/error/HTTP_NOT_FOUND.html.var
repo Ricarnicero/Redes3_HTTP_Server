@@ -1,6 +1,5 @@
 Content-language: es
 Content-type: text/html
 Body:----------es--
-<!--#set var="TITLE" value="" -->
-<!--#include virtual="404.html" -->
+<!--#include virtual="pages/404.html" -->
 ----------es--

@@ -208,3 +208,23 @@ The 'ServiceTest' service is running.
 [Sat Aug 24 20:37:59.653340 2019] [ssl:warn] [pid 11300:tid 604] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
 [Sat Aug 24 20:38:00.044721 2019] [mpm_winnt:notice] [pid 11300:tid 604] AH00354: Child: Starting 64 worker threads.
 [Sat Aug 24 20:38:01.045447 2019] [mpm_winnt:notice] [pid 16996:tid 268] AH00364: Child: All worker threads have exited.
+[Sat Aug 24 21:04:05.960994 2019] [mpm_winnt:notice] [pid 16388:tid 692] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat Aug 24 21:04:06.054770 2019] [ssl:warn] [pid 16388:tid 692] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 24 21:04:06.054770 2019] [mpm_winnt:notice] [pid 16388:tid 692] AH00455: Apache/2.4.41 (Win32) OpenSSL/1.0.2s configured -- resuming normal operations
+[Sat Aug 24 21:04:06.054770 2019] [mpm_winnt:notice] [pid 16388:tid 692] AH00456: Server built: Aug  9 2019 13:58:07
+[Sat Aug 24 21:04:06.054770 2019] [core:notice] [pid 16388:tid 692] AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Sat Aug 24 21:04:06.059882 2019] [mpm_winnt:notice] [pid 16388:tid 692] AH00418: Parent: Created child process 19312
+[Sat Aug 24 21:04:06.488631 2019] [ssl:warn] [pid 19312:tid 648] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 24 21:04:06.575529 2019] [ssl:warn] [pid 19312:tid 648] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 24 21:04:06.961538 2019] [mpm_winnt:notice] [pid 19312:tid 648] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 24 21:04:07.961805 2019] [mpm_winnt:notice] [pid 11300:tid 604] AH00364: Child: All worker threads have exited.
+[Sat Aug 24 21:27:41.030424 2019] [mpm_winnt:notice] [pid 16388:tid 692] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat Aug 24 21:27:41.122151 2019] [ssl:warn] [pid 16388:tid 692] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 24 21:27:41.122151 2019] [mpm_winnt:notice] [pid 16388:tid 692] AH00455: Apache/2.4.41 (Win32) OpenSSL/1.0.2s configured -- resuming normal operations
+[Sat Aug 24 21:27:41.122151 2019] [mpm_winnt:notice] [pid 16388:tid 692] AH00456: Server built: Aug  9 2019 13:58:07
+[Sat Aug 24 21:27:41.122151 2019] [core:notice] [pid 16388:tid 692] AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Sat Aug 24 21:27:41.127170 2019] [mpm_winnt:notice] [pid 16388:tid 692] AH00418: Parent: Created child process 23764
+[Sat Aug 24 21:27:41.546899 2019] [ssl:warn] [pid 23764:tid 604] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 24 21:27:41.633174 2019] [ssl:warn] [pid 23764:tid 604] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 24 21:27:42.031974 2019] [mpm_winnt:notice] [pid 23764:tid 604] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 24 21:27:43.032699 2019] [mpm_winnt:notice] [pid 19312:tid 648] AH00364: Child: All worker threads have exited.
