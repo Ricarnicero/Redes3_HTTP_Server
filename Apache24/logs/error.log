@@ -199,3 +199,16 @@ AH00558: httpd.exe: Could not reliably determine the server's fully qualified do
 AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
 Mon Sep 02 22:58:16 2019 | Mon Sep 02 22:58:16 2019 | child.c(990) | AH00354: Child: Starting 64 worker threads.
 Mon Sep 02 22:58:18 2019 | Mon Sep 02 22:58:18 2019 | child.c(1274) | AH00364: Child: All worker threads have exited.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::6ca1:b83a:52e8:f0c0. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 03 17:31:08.895774 2019] [core:warn] [pid 16356:tid 836] AH00098: pid file C:/Users/drago/Documents/Redes3_HTTP_Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+Tue Sep 03 17:31:08 2019 | Tue Sep 03 17:31:08 2019 | mpm_winnt.c(1731) | AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+Tue Sep 03 17:31:08 2019 | Tue Sep 03 17:31:08 2019 | mpm_winnt.c(1734) | AH00456: Server built: Aug  9 2019 13:58:07
+Tue Sep 03 17:31:08 2019 | Tue Sep 03 17:31:08 2019 | log.c(1561) | AH00094: Command line: 'C:\\Users\\drago\\Documents\\Redes3_HTTP_Server\\Apache24\\bin\\httpd.exe -d C:/Users/drago/Documents/Redes3_HTTP_Server/Apache24'
+Tue Sep 03 17:31:08 2019 | Tue Sep 03 17:31:08 2019 | mpm_winnt.c(650) | AH00418: Parent: Created child process 13348
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::6ca1:b83a:52e8:f0c0. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::6ca1:b83a:52e8:f0c0. Set the 'ServerName' directive globally to suppress this message
+Tue Sep 03 17:31:12 2019 | Tue Sep 03 17:31:12 2019 | child.c(990) | AH00354: Child: Starting 64 worker threads.
+Tue Sep 03 17:31:35 2019 | Tue Sep 03 17:31:35 2019 | mpm_winnt.c(812) | AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Tue Sep 03 17:31:37 2019 | Tue Sep 03 17:31:37 2019 | child.c(1274) | AH00364: Child: All worker threads have exited.
+Tue Sep 03 17:31:37 2019 | Tue Sep 03 17:31:37 2019 | mpm_winnt.c(902) | AH00430: Parent: Child process 13348 exited successfully.
