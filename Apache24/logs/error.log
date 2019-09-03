@@ -49,3 +49,153 @@ AH00558: httpd.exe: Could not reliably determine the server's fully qualified do
 [Fri Aug 30 02:18:05.093551 2019] [mpm_winnt:notice] [pid 24888:tid 904] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Fri Aug 30 02:18:07.095489 2019] [mpm_winnt:notice] [pid 10360:tid 860] AH00364: Child: All worker threads have exited.
 [Fri Aug 30 02:18:07.109859 2019] [mpm_winnt:notice] [pid 24888:tid 904] AH00430: Parent: Child process 10360 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 30 02:21:14.847217 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Aug 30 02:21:14.847217 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00456: Server built: Aug  9 2019 13:58:07
+[Fri Aug 30 02:21:14.847217 2019] [core:notice] [pid 12608:tid 924] AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Fri Aug 30 02:21:14.851174 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00418: Parent: Created child process 24948
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 30 02:21:16.899401 2019] [mpm_winnt:notice] [pid 24948:tid 856] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 30 02:40:04.771706 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 30 02:40:05.631307 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Aug 30 02:40:05.631307 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00456: Server built: Aug  9 2019 13:58:07
+[Fri Aug 30 02:40:05.631307 2019] [core:notice] [pid 12608:tid 924] AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Fri Aug 30 02:40:05.635324 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00418: Parent: Created child process 21316
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 30 02:40:07.687384 2019] [mpm_winnt:notice] [pid 21316:tid 872] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 30 02:41:07.627561 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 30 02:41:08.484029 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Aug 30 02:41:08.484029 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00456: Server built: Aug  9 2019 13:58:07
+[Fri Aug 30 02:41:08.484029 2019] [core:notice] [pid 12608:tid 924] AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Fri Aug 30 02:41:08.488073 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00418: Parent: Created child process 16404
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 30 02:41:10.527276 2019] [mpm_winnt:notice] [pid 16404:tid 872] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 30 02:41:15.765805 2019] [mpm_winnt:notice] [pid 21316:tid 872] AH00364: Child: All worker threads have exited.
+[Fri Aug 30 02:43:32.747383 2019] [authz_core:error] [pid 16404:tid 1412] [client 192.168.0.58:38352] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/htdocs/server-info
+[Fri Aug 30 02:49:48.123436 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 30 02:49:48.981066 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Aug 30 02:49:48.981066 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00456: Server built: Aug  9 2019 13:58:07
+[Fri Aug 30 02:49:48.981066 2019] [core:notice] [pid 12608:tid 924] AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Fri Aug 30 02:49:48.985055 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00418: Parent: Created child process 20992
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 30 02:49:51.023396 2019] [mpm_winnt:notice] [pid 20992:tid 880] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 30 02:50:13.874827 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 30 02:50:14.732408 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Aug 30 02:50:14.732408 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00456: Server built: Aug  9 2019 13:58:07
+[Fri Aug 30 02:50:14.732408 2019] [core:notice] [pid 12608:tid 924] AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Fri Aug 30 02:50:14.737395 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00418: Parent: Created child process 10228
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 30 02:50:16.780926 2019] [mpm_winnt:notice] [pid 10228:tid 872] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 30 02:50:20.101683 2019] [authz_core:error] [pid 10228:tid 1372] [client 127.0.0.1:56572] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/
+[Fri Aug 30 02:50:20.111629 2019] [authz_core:error] [pid 10228:tid 1368] [client 127.0.0.1:56573] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/imagenes, referer: http://127.0.0.1/project2/
+[Fri Aug 30 02:50:20.111629 2019] [authz_core:error] [pid 10228:tid 1372] [client 127.0.0.1:56572] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/css/bootstrap.min.css, referer: http://127.0.0.1/project2/
+[Fri Aug 30 02:50:20.199831 2019] [mpm_winnt:notice] [pid 20992:tid 880] AH00364: Child: All worker threads have exited.
+[Fri Aug 30 20:12:53.064459 2019] [authz_core:error] [pid 10228:tid 1372] [client 127.0.0.1:57714] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/
+[Fri Aug 30 20:12:54.979187 2019] [authz_core:error] [pid 10228:tid 1368] [client 127.0.0.1:57732] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/
+[Fri Aug 30 20:12:54.996141 2019] [authz_core:error] [pid 10228:tid 1440] [client 127.0.0.1:57733] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/imagenes, referer: http://127.0.0.1/project2/
+[Fri Aug 30 20:12:54.996141 2019] [authz_core:error] [pid 10228:tid 1368] [client 127.0.0.1:57732] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/css/bootstrap.min.css, referer: http://127.0.0.1/project2/
+[Fri Aug 30 21:46:33.216362 2019] [authz_core:error] [pid 10228:tid 1368] [client 127.0.0.1:60787] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/
+[Fri Aug 30 21:46:36.537885 2019] [authz_core:error] [pid 10228:tid 1440] [client 127.0.0.1:60818] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/
+[Fri Aug 30 21:46:36.554839 2019] [authz_core:error] [pid 10228:tid 1372] [client 127.0.0.1:60819] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/imagenes, referer: http://127.0.0.1/project2/
+[Fri Aug 30 21:46:36.554839 2019] [authz_core:error] [pid 10228:tid 1440] [client 127.0.0.1:60818] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/css/bootstrap.min.css, referer: http://127.0.0.1/project2/
+[Sat Aug 31 23:49:30.963780 2019] [authz_core:error] [pid 10228:tid 1372] [client 127.0.0.1:62939] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/
+[Sat Aug 31 23:49:42.661698 2019] [authz_core:error] [pid 10228:tid 1372] [client 127.0.0.1:63028] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/
+[Sat Aug 31 23:49:42.815795 2019] [authz_core:error] [pid 10228:tid 1440] [client 127.0.0.1:63029] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/imagenes, referer: http://127.0.0.1/project2/
+[Sat Aug 31 23:49:42.816793 2019] [authz_core:error] [pid 10228:tid 1372] [client 127.0.0.1:63028] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/css/bootstrap.min.css, referer: http://127.0.0.1/project2/
+[Mon Sep 02 21:53:33.637894 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 02 21:53:34.872286 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Sep 02 21:53:34.872286 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00456: Server built: Aug  9 2019 13:58:07
+[Mon Sep 02 21:53:34.872286 2019] [core:notice] [pid 12608:tid 924] AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Mon Sep 02 21:53:34.892155 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00418: Parent: Created child process 13720
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 02 21:53:36.964870 2019] [mpm_winnt:notice] [pid 13720:tid 856] AH00354: Child: Starting 64 worker threads.
+[Mon Sep 02 21:54:41.980014 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 02 21:54:42.836858 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Sep 02 21:54:42.836858 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00456: Server built: Aug  9 2019 13:58:07
+[Mon Sep 02 21:54:42.836858 2019] [core:notice] [pid 12608:tid 924] AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Mon Sep 02 21:54:42.840847 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00418: Parent: Created child process 23008
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 02 21:54:44.902232 2019] [mpm_winnt:notice] [pid 23008:tid 856] AH00354: Child: Starting 64 worker threads.
+[Mon Sep 02 21:54:57.994624 2019] [authz_core:error] [pid 23008:tid 1388] [client ::1:56646] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/
+[Mon Sep 02 21:54:58.007590 2019] [authz_core:error] [pid 23008:tid 1388] [client ::1:56646] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/css/bootstrap.min.css, referer: http://localhost/project2/
+[Mon Sep 02 21:54:58.007590 2019] [authz_core:error] [pid 23008:tid 1384] [client ::1:56647] AH01630: client denied by server configuration: C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/SegundoSitio/public_html/imagenes, referer: http://localhost/project2/
+[Mon Sep 02 21:57:26.108007 2019] [mpm_winnt:notice] [pid 12608:tid 924] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00526: Syntax error on line 318 of C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/conf/httpd.conf:
+Unrecognized LogFormat directive % 
+[Mon Sep 02 21:57:28.109660 2019] [mpm_winnt:notice] [pid 23008:tid 856] AH00364: Child: All worker threads have exited.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 02 21:57:38.769018 2019] [core:warn] [pid 25384:tid 892] AH00098: pid file C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 02 21:57:38.773007 2019] [mpm_winnt:notice] [pid 25384:tid 892] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Sep 02 21:57:38.773007 2019] [mpm_winnt:notice] [pid 25384:tid 892] AH00456: Server built: Aug  9 2019 13:58:07
+[Mon Sep 02 21:57:38.773007 2019] [core:notice] [pid 25384:tid 892] AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Mon Sep 02 21:57:38.777428 2019] [mpm_winnt:notice] [pid 25384:tid 892] AH00418: Parent: Created child process 12104
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 02 21:57:40.818749 2019] [mpm_winnt:notice] [pid 12104:tid 860] AH00354: Child: Starting 64 worker threads.
+[Mon Sep 02 22:01:14.834835 2019] [mpm_winnt:notice] [pid 25384:tid 892] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00526: Syntax error on line 304 of C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/conf/httpd.conf:
+ErrorLog takes one argument, The filename of the error log
+[Mon Sep 02 22:01:16.837215 2019] [mpm_winnt:notice] [pid 12104:tid 860] AH00364: Child: All worker threads have exited.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 02 22:12:14.993737 2019] [core:warn] [pid 9320:tid 896] AH00098: pid file C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 02 22:12:14 2019] [notice] [C: [R: [pid 9320] mpm_winnt.c(1731): [client AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Sep 02 22:12:14 2019] [notice] [C: [R: [pid 9320] mpm_winnt.c(1734): [client AH00456: Server built: Aug  9 2019 13:58:07
+[Mon Sep 02 22:12:14 2019] [notice] [C: [R: [pid 9320] log.c(1561): [client AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Mon Sep 02 22:12:15 2019] [notice] [C: [R: [pid 9320] mpm_winnt.c(650): [client AH00418: Parent: Created child process 6284
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 02 22:12:17 2019] [notice] [C: [R: [pid 6284] child.c(990): [client AH00354: Child: Starting 64 worker threads.
+[Mon Sep 02 22:30:38 2019] [notice] [C: [R: [pid 9320] mpm_winnt.c(824): [client AH00424: Parent: Received restart signal -- Restarting the server.
+AH00526: Syntax error on line 322 of C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/conf/httpd.conf:
+Unrecognized LogFormat directive % 
+[Mon Sep 02 22:30:40 2019] [notice] [C: [R: [pid 6284] child.c(1274): [client AH00364: Child: All worker threads have exited.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 02 22:31:20.040048 2019] [core:warn] [pid 19644:tid 900] AH00098: pid file C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 02 22:31:20 2019] [notice] [C: [R: [pid 19644] mpm_winnt.c(1731): [client AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Sep 02 22:31:20 2019] [notice] [C: [R: [pid 19644] mpm_winnt.c(1734): [client AH00456: Server built: Aug  9 2019 13:58:07
+[Mon Sep 02 22:31:20 2019] [notice] [C: [R: [pid 19644] log.c(1561): [client AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+[Mon Sep 02 22:31:20 2019] [notice] [C: [R: [pid 19644] mpm_winnt.c(650): [client AH00418: Parent: Created child process 18144
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+[Mon Sep 02 22:31:22 2019] [notice] [C: [R: [pid 18144] child.c(990): [client AH00354: Child: Starting 64 worker threads.
+[Mon Sep 02 22:33:21 2019] [notice] [C: [R: [pid 19644] mpm_winnt.c(824): [client AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+Mon Sep 02 22:33:22 2019 | Mon Sep 02 22:33:22 2019 [notice] [C: [R: [pid 19644] mpm_winnt.c(1731): [client AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+Mon Sep 02 22:33:22 2019 | Mon Sep 02 22:33:22 2019 [notice] [C: [R: [pid 19644] mpm_winnt.c(1734): [client AH00456: Server built: Aug  9 2019 13:58:07
+Mon Sep 02 22:33:22 2019 | Mon Sep 02 22:33:22 2019 [notice] [C: [R: [pid 19644] log.c(1561): [client AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+Mon Sep 02 22:33:22 2019 | Mon Sep 02 22:33:22 2019 [notice] [C: [R: [pid 19644] mpm_winnt.c(650): [client AH00418: Parent: Created child process 8252
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+Mon Sep 02 22:33:24 2019 | Mon Sep 02 22:33:24 2019 [notice] [C: [R: [pid 8252] child.c(990): [client AH00354: Child: Starting 64 worker threads.
+Mon Sep 02 22:37:21 2019 | Mon Sep 02 22:37:21 2019 [notice] [C: [R: [pid 19644] mpm_winnt.c(824): [client AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+Mon Sep 02 22:37:21 2019 | Mon Sep 02 22:37:21 2019 | mpm_winnt.c(1731) | AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+Mon Sep 02 22:37:21 2019 | Mon Sep 02 22:37:21 2019 | mpm_winnt.c(1734) | AH00456: Server built: Aug  9 2019 13:58:07
+Mon Sep 02 22:37:21 2019 | Mon Sep 02 22:37:21 2019 | log.c(1561) | AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+Mon Sep 02 22:37:21 2019 | Mon Sep 02 22:37:21 2019 | mpm_winnt.c(650) | AH00418: Parent: Created child process 23476
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+Mon Sep 02 22:37:24 2019 | Mon Sep 02 22:37:24 2019 | child.c(990) | AH00354: Child: Starting 64 worker threads.
+Mon Sep 02 22:58:13 2019 | Mon Sep 02 22:58:13 2019 | mpm_winnt.c(824) | AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+Mon Sep 02 22:58:14 2019 | Mon Sep 02 22:58:14 2019 | mpm_winnt.c(1731) | AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+Mon Sep 02 22:58:14 2019 | Mon Sep 02 22:58:14 2019 | mpm_winnt.c(1734) | AH00456: Server built: Aug  9 2019 13:58:07
+Mon Sep 02 22:58:14 2019 | Mon Sep 02 22:58:14 2019 | log.c(1561) | AH00094: Command line: 'C:\\Users\\Ricardo\\Downloads\\httpd-2.4.41-o102s-x86-vc14-r2\\Apache24\\bin\\httpd.exe -d C:/Users/Ricardo/Downloads/httpd-2.4.41-o102s-x86-vc14-r2/Apache24'
+Mon Sep 02 22:58:14 2019 | Mon Sep 02 22:58:14 2019 | mpm_winnt.c(650) | AH00418: Parent: Created child process 24868
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d8d9:f69e:d0e1:d673. Set the 'ServerName' directive globally to suppress this message
+Mon Sep 02 22:58:16 2019 | Mon Sep 02 22:58:16 2019 | child.c(990) | AH00354: Child: Starting 64 worker threads.
+Mon Sep 02 22:58:18 2019 | Mon Sep 02 22:58:18 2019 | child.c(1274) | AH00364: Child: All worker threads have exited.
