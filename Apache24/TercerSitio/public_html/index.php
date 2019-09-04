@@ -56,7 +56,7 @@
 
         <h1 class="my-4">Casos de exito</h1>
         <?php
-        $página_inicio = file_get_contents('C:\laragon\bin\apache\httpd-2.4.35-win64-VC15\logs\access.log');
+        $página_inicio = file_get_contents('C:\Users\Ricardo\Downloads\httpd-2.4.41-o102s-x86-vc14-r2\Apache24\logs\access.log');
         $porciones = explode("\n", $página_inicio);
         $i=1;
         while ($i <= 16):
@@ -72,7 +72,7 @@
 
         <h1 class="my-4">Casos de error</h1>
         <?php
-        $página_inicio = file_get_contents('C:\laragon\bin\apache\httpd-2.4.35-win64-VC15\logs\error.log');
+        $página_inicio = file_get_contents('C:\Users\Ricardo\Downloads\httpd-2.4.41-o102s-x86-vc14-r2\Apache24\logs\error.log');
         $porciones = explode("\n", $página_inicio);
         $i=1;
         $b=16;
